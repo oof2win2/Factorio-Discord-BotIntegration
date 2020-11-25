@@ -1,4 +1,5 @@
 # Factorio-Discord-BotIntegration
+[Mod on the Mod Portal](https://mods.factorio.com/mod/Factorio-Discord-BotIntegration/edit)
 
 This is a mod that allows the Discord [AwF Bot](https://github.com/James-Hackett/AwF-Bot) to log achievements, deaths and many other things to work
 
