@@ -1,0 +1,9 @@
+{
+  "name": "Factorio-Discord-BotIntegration",
+  "version": "1.0.0",
+  "title": "Factorio <-> Discord Bot Integration",
+  "author": "oof2win2",
+  "factorio_version": "1.0",
+  "homepage": "https://github.com/oof2win2/Factorio-Discord-BotIntegration",
+  "dependencies": ["base"]
+}
