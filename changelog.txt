@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2021-06-16
+  Changes:
+    - Updated to be compatible with new version of JammyBot
