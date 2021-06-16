@@ -42,8 +42,8 @@ local function on_player_left_game(e)
 			type='leave',
 			playerName=player.name,
 			reason=reason
-		} .. "\n"
-	), true, 0)
+		}
+	) .. "\n", true, 0)
 end
 local function on_player_joined_game(e)
 	local player = game.get_player(e.player_index)
@@ -51,8 +51,8 @@ local function on_player_joined_game(e)
 		{
 			type='join',
 			playerName=player.name
-		} .. "\n"
-	), true, 0)
+		}
+	) .. "\n", true, 0)
 end
 
 local function get_infinite_research_name(name)
